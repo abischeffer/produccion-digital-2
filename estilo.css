@@ -1,0 +1,43 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+body{
+	background-image: url(../img/bg.jpg);
+}
+
+#contenedor{
+	width: 800px;
+	height: 400px;
+	background-color: #1B9CFC;
+	margin-left: auto;
+	margin-right: auto;
+
+
+}
+
+
+#caja1{
+	width: 400px;
+	height: 400px;
+	background-color: #F8EFBA;
+	float: left;
+	padding: 10px;
+
+}
+
+
+#caja2{
+	width: 400px;
+	height: 400px;
+	background-color: #9AECDB;
+	float: left;
+	padding: 20px;
+
+
+
+}
+
